@@ -12,3 +12,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.login-card{
+  height:400px;
+  width: 350px ;
+  margin: 65px auto;
+}
+
+.login-logo{
+  max-width: 100%;
+  height: auto;
+}
+
+#login-btn{
+  background:#C82F34;
+  color: antiquewhite
+}
+
+.formcard-div{
+  justify-content: center
+}
+
+ .sidedrawer-dashboard div{
+  background: #232323;
+}
